@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AnkushK2022
-- 👀 I’m interested in Full Stack Software Development 
-- 🌱 I’m currently learning Front End Designing 
-- 💞️ I’m looking to collaborate on Web Technology 
+- 👋 Hi, I’m Ankush Kumar
+- 👀 I’m interested in Software Development
+- 🧑‍💻 I know many technologies like HTML, CSS, JS, jQuery, Bootstrap, Tailwind, PHP, C/C++, JavaScript AJAX.
+- 💻 Worked on cms(s) Like, WordPress, Shopify, ClickFunnel Classic, ClickFunnel-2.0, SqureSpace and can work in any type of cms(s) like them.
+- 💞️ I’m looking to collaborate on Web Technology
 - 📫 Contact me on e-mail: ankush.kumar1026@gmail.com
 
 <!---
