@@ -40,8 +40,19 @@ I'm a passionate developer with a strong interest in building efficient, scalabl
 
 ### 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,cpp,c,wordpress,shopify,webflow,ajax&perline=6" />
+🛠️ My Tech Stack
+Core Languages & Frameworks
+<p align="center"> 
+	<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,cpp,c,ajax&perline=6&v=2" /> 
+</p>
+
+CMS Platforms & Tools
+<p align="center"> 
+	<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /> 
+	<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /> 
+	<img src="https://img.shields.io/badge/ClickFunnels-2A3C42?style=for-the-badge&logo=clickfunnels&logoColor=white" alt="ClickFunnels" /> 
+	<img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" /> 
+	<img src="https://img.shields.io/badge/SquareSpace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="SquareSpace" /> 
 </p>
 
 ---
