@@ -71,33 +71,38 @@ CMS Platforms & Tools
 
 <table border="0" cellpadding="10">
   <tr>
+    <td width="100%">
+      <h3>Project 1: Portfolio Website</h3>
+      <p>My new fully responsive, animated personal portfolio built with Tailwind CSS and JavaScript. (This is the one you're building!)</p>
+      <a href="https://github.com/AnkushK2022/AnkushK2022.github.io">View on GitHub</a> | <a href="https://AnkushK2022.github.io">View Live</a>
+    </td>
+  </tr>
     <td width="50%">
-      <h3>Project 1: MatchMind</h3>
-	  <em>Color Match Challenge project</em>
-      <p>A game of speed, focus, and visual acuity. Enjoy the challenge!</p>
-      <a href="https://github.com/AnkushK2022/MatchMind">View on GitHub</a> | <a href="https://ankushk2022.github.io/MatchMind/">View Live</a>
+      <h3>Project 2: Animated SVG Text Generator</h3>
+	  <p>A single-page application for customizing and generating animated SVG text effects.</p>
+      <a href="https://github.com/AnkushK2022/Animated-SVG-Text-Generator">View on GitHub</a> | <a href="https://ankushk2022.github.io/Animated-SVG-Text-Generator/">View Live</a>
     </td>
     <td width="50%">
-      <h3>Project 2: Portfolio Website</h3>
+      <h3>Project 3: Portfolio Website</h3>
       <p>My new fully responsive, animated personal portfolio built with Tailwind CSS and JavaScript. (This is the one you're building!)</p>
       <a href="https://github.com/AnkushK2022/AnkushK2022.github.io">View on GitHub</a> | <a href="https://AnkushK2022.github.io">View Live</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Project 3: WooCommerce Video Gallery Enhancer Plugin</h3>
+      <h3>Project 4: WooCommerce Video Gallery Enhancer Plugin</h3>
       <p>Add video to WooCommerce product gallery with position control</p>
       <a href="https://github.com/AnkushK2022/WooCommerce-Video-Gallery-Enhancer">View on GitHub</a>
     </td>
     <td width="50%">
-      <h3>Project 4: WooCommerce Video Gallery Enhancer Pro Plugin</h3>
+      <h3>Project 5: WooCommerce Video Gallery Enhancer Pro Plugin</h3>
       <p>Add video to WooCommerce product gallery with position control with Custom thumbnail option.</p>
       <a href="https://github.com/AnkushK2022/WooCommerce-Video-Gallery-Enhancer">View on GitHub</a>
     </td>
   </tr>
     <tr>
     <td width="50%">
-      <h3>Project 5: Book Upload Manager Plugin</h3>
+      <h3>Project 6: Book Upload Manager Plugin</h3>
       <p>WordPress plugin to allow users to upload there books to the website and allow admin to review them. Approval creates a products in the woo-commerce automatically in one click.</p>
       <a href="https://github.com/AnkushK2022/BookUploadManager">View on GitHub</a>
     </td>
