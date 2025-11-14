@@ -71,7 +71,7 @@ CMS Platforms & Tools
 
 <table border="0" cellpadding="10">
   <tr>
-    <td width="100%">
+    <td width="100%" colspan="2">
       <h3>Project 1: Portfolio Website</h3>
       <p>My new fully responsive, animated personal portfolio built with Tailwind CSS and JavaScript. (This is the one you're building!)</p>
       <a href="https://github.com/AnkushK2022/AnkushK2022.github.io">View on GitHub</a> | <a href="https://AnkushK2022.github.io">View Live</a>
