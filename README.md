@@ -79,14 +79,15 @@ CMS Platforms & Tools
   </tr>
   <tr>
     <td width="50%">
-      <h3>Project 2: Animated SVG Text Generator</h3>
+      <h3>Project 2: MatchMind</h3>
+	  <em>Colour Match Challenge</em>
+      <p>A game of speed, focus, and visual acuity. Enjoy the challenge!</p>
+      <a href="https://github.com/AnkushK2022/MatchMind">View on GitHub</a> | <a href="https://ankushk2022.github.io/MatchMind/">View Live</a>
+    </td>
+	<td width="50%">
+      <h3>Project 3: Animated SVG Text Generator</h3>
       <p>A single-page application for customizing and generating animated SVG text effects.</p>
       <a href="https://github.com/AnkushK2022/Animated-SVG-Text-Generator">View on GitHub</a> | <a href="https://ankushk2022.github.io/Animated-SVG-Text-Generator/">View Live</a>
-    </td>
-    <td width="50%">
-      <h3>Project 3: Portfolio Website</h3>
-      <p>My new fully responsive, animated personal portfolio built with Tailwind CSS and JavaScript. (This is the one you're building!)</p>
-      <a href="https://github.com/AnkushK2022/AnkushK2022.github.io">View on GitHub</a> | <a href="https://AnkushK2022.github.io">View Live</a>
     </td>
   </tr>
   <tr>
