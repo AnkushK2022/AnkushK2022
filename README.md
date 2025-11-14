@@ -77,9 +77,10 @@ CMS Platforms & Tools
       <a href="https://github.com/AnkushK2022/AnkushK2022.github.io">View on GitHub</a> | <a href="https://AnkushK2022.github.io">View Live</a>
     </td>
   </tr>
+  <tr>
     <td width="50%">
       <h3>Project 2: Animated SVG Text Generator</h3>
-	  <p>A single-page application for customizing and generating animated SVG text effects.</p>
+      <p>A single-page application for customizing and generating animated SVG text effects.</p>
       <a href="https://github.com/AnkushK2022/Animated-SVG-Text-Generator">View on GitHub</a> | <a href="https://ankushk2022.github.io/Animated-SVG-Text-Generator/">View Live</a>
     </td>
     <td width="50%">
@@ -100,7 +101,7 @@ CMS Platforms & Tools
       <a href="https://github.com/AnkushK2022/WooCommerce-Video-Gallery-Enhancer">View on GitHub</a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="50%">
       <h3>Project 6: Book Upload Manager Plugin</h3>
       <p>WordPress plugin to allow users to upload there books to the website and allow admin to review them. Approval creates a products in the woo-commerce automatically in one click.</p>
